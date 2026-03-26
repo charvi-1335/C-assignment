@@ -1,5 +1,5 @@
-# C-assignment
-This repository contains basic C# programs:
+C#-assignment
+This repository contains C# programs:
 
 - Reverse String
 - Sum of Even Numbers
